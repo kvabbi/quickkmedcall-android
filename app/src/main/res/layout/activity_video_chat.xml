@@ -16,4 +16,8 @@
         android:text="END"
         android:onClick="hangup"
         />
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </RelativeLayout>

@@ -21,6 +21,10 @@ import org.json.JSONObject;
 
 import com.shearwaterinvest.quickkmedcall.util.Constants;
 
+import pl.tajchert.nammu.Nammu;
+import pl.tajchert.nammu.PermissionCallback;
+import pl.tajchert.nammu.PermissionListener;
+
 /**
  * TODO: Uncomment mPubNub instance variable
  */
